@@ -1,0 +1,15 @@
+# Sachin Joseph
+
+> Notes on code, tools, and whatever I'm currently digging into. Includes "LLMs Demystified," a series explaining large language model concepts from first principles, one short post per concept.
+
+## LLMs Demystified
+
+- [What Is a Language Model?](https://sachinjoseph.com/posts/what-is-a-language-model/): A language model is a neural network trained to predict what text comes next.
+- [What a Neural Network Actually Is](https://sachinjoseph.com/posts/what-a-neural-network-actually-is/): How layers, neurons, weights, biases, and a nonlinear step combine to compute anything.
+- [Tokens, Not Words](https://sachinjoseph.com/posts/tokens-not-words/): Why models read and predict tokens, not words, and how text becomes numbers.
+- [Paper: Byte Pair Encoding](https://sachinjoseph.com/posts/paper-byte-pair-encoding/): The algorithm that builds most tokenizer vocabularies, by repeatedly merging the most frequent adjacent pair of pieces.
+- [Embeddings](https://sachinjoseph.com/posts/embeddings/): How a token becomes a vector — the embedding lookup — and how that vector is scored against the table to pick the next token.
+
+## Other posts
+
+- [Archives](https://sachinjoseph.com/archives/): Full post list.
